@@ -2,8 +2,8 @@
 This project is a simple project created with C++, which allows the student to share this project on their project based learning of their college and varsity. Best of luck...
 
 ```
-# simply run the main.cpp file in code::blocks or any you code editor & executor you may like.
-# and don't forget to create the folder cards
+// simply run the main.cpp file in code::blocks or any you code editor & executor you may like.
+// and don't forget to create the folder cards
 ```
 
 
